@@ -1,4 +1,4 @@
-name: medical-symptom-checker Package
+name: @lsameerdheen/medicalsymptoms Package
 
 on:
   release:
